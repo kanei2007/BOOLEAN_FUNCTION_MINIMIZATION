@@ -1,57 +1,42 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
-
-## AIM:
-
+NAME : KANEIMOZHI S
+REG NO : 24005925
+EXPERIMENT 2: IMPLEMENTATION OF BOOLEAN FUNCTION
+AIM:
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
-F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D 
+F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-## EQUIPMENT REQUIREMENT :
-
+EQUIPMENT REQUIRED:
 Hardware – PCs, Cyclone II , USB flasher
 
-**Software – Quartus prime**
+THEORY:
+Implementing Boolean functions in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
 
-## THEORY :
+PROCEDURE:
+Type the program in Quartus software.
 
-**Logic Diagram**
+Compile and run the program.
 
-## PROCEDURE :
+Generate the RTL schematic and save the logic diagram.
 
-1.	Type the program in Quartus software.
+Create nodes for inputs and outputs to generate the timing diagram.
 
-2.	Compile and run the program.
+For different input combinations generate the timing diagram.
 
-3.	Generate the RTL schematic and save the logic diagram.
+PROGRAM:
+Screenshot 2024-11-04 114028
 
-4.	Create nodes for inputs and outputs to generate the timing diagram.
+TRUTH TABLE:
+TRUTH TABLE FOR EX2
 
-5.	For different input combinations generate the timing diagram.
+RTL OUTPUT:
+Screenshot 2024-11-04 104445
 
+TIMING DIAGRAM
+Screenshot 2024-11-04 111502
 
-
-## PROGRAM :
-![Screenshot 2024-12-23 101229](https://github.com/user-attachments/assets/917222d2-f8c0-4eb2-beba-5f72c1906cee)
-
-
-
-## TRUTH TABLE :
-![Screenshot 2024-12-23 101312](https://github.com/user-attachments/assets/4dab41bb-278f-489d-902b-55277d45116e)
-
-## RTL OUTPUT :
-![Screenshot 2024-12-23 101333](https://github.com/user-attachments/assets/ec3f845c-6d01-4e71-bf18-6fed6271532c)
-
-## TIMING OUTPUT:
-![Screenshot 2024-12-23 101348](https://github.com/user-attachments/assets/3097f1b9-caec-4d92-96d9-f2e6511e4576)
-
-## RESULT:
-Thus the given logic diagram functions are implemented and their operations are verified using verilog programming
-
-
-
-
-
-
+RESULT:
+Thus the given logic functions are implemented and their operations are verified using Verilog Programming.
 
