@@ -1,4 +1,4 @@
-NAME : KANEIMOZHI S
+NAME : KANEIMOZHI
 REG NO : 24005925
 EXPERIMENT 2: IMPLEMENTATION OF BOOLEAN FUNCTION
 AIM:
@@ -39,4 +39,3 @@ Screenshot 2024-11-04 111502
 
 RESULT:
 Thus the given logic functions are implemented and their operations are verified using Verilog Programming.
-
